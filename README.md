@@ -21,7 +21,7 @@ docker run -d --net=host --privileged=true -h *your_host_name* -v /*your_config_
 
 REMOTE_LOCATION - specify remote location like this "//remoteserver/media"
 
-SHARE_USERNAME - specify username required to access share, use "quest" if not required
+SHARE_USERNAME - specify username required to access share, use "guest" if not required
 
 SHARE_PASSWORD - specify password, leave empty if using guest, do specify when running!
 
